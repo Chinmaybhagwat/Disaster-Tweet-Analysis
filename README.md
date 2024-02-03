@@ -16,3 +16,6 @@ In the context of Twitter's crucial role in disseminating disaster-related infor
 
 
 -: This repository contains all the codes, data used to complete the project and the presentation.
+
+
+[Click here to read the full blog of the project](https://medium.com/@cbhagwat_26146/an-analysis-on-disaster-management-tweets-and-their-relevancy-065a9d53f440)
